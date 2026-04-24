@@ -1,18 +1,33 @@
-#🎮 Tic Tac Toe Game
+# 🎮 Tic Tac Toe
 
-A simple and interactive Tic Tac Toe game built using HTML, CSS, and JavaScript. This project is perfect for beginners to understand DOM manipulation, event handling, and basic game logic.
+A clean and interactive Tic Tac Toe game built using **HTML, CSS, and JavaScript**.  
+This project demonstrates basic game logic, DOM manipulation, and responsive UI design.
 
-#🚀 Features
-Two-player gameplay (Player X vs Player O)
-Interactive UI with real-time updates
-Win and draw detection
-Game reset functionality
-Responsive design for different screen sizes
+---
 
-##🛠️ Technologies Used
-HTML – Structure of the game
-CSS – Styling and layout
-JavaScript – Game logic and interactivity
+## ✨ Features
+
+- 👥 Two-player mode (X vs O)
+- ⚡ Real-time game updates
+- 🏆 Winner detection
+- 🤝 Draw detection
+- 🔄 Restart / Reset game
+- 📱 Responsive design
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology | Purpose |
+|------------|--------|
+| HTML       | Structure |
+| CSS        | Styling |
+| JavaScript | Game Logic |
+
+---
+
+## 📁 Project Structure
+
 📂 Project Structure
 tic-tac-toe/
 │
@@ -21,22 +36,17 @@ tic-tac-toe/
 ├── script.js       # Game logic
 └── README.md       # Project documentation
 
-##▶️ How to Run
-1.Download or clone the repository
+---
+
+## ▶️ Getting Started
+
+### 1. Clone the repository
+
+
 git clone https://github.com/your-username/tic-tac-toe.git
-2.Open the project folder
-3.Double-click on index.html or open it in your browser
 
-##🎯 How to Play
-The game is played on a 3x3 grid
-Player X starts first
-Players take turns marking a cell
-The first player to align 3 marks (row, column, or diagonal) wins
-If all cells are filled and no player wins, it's a draw
 
-📄 License
+🙌 Author
 
-This project is open-source and free to use.
-##🙌 Acknowledgement
-
-This project is created for learning and practice purposes.S
+POOJA MAURYA
+GitHub: https://github.com/pooja6765
