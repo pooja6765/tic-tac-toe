@@ -43,7 +43,7 @@ tic-tac-toe/
 ### 1. Clone the repository
 
 
-git clone https://github.com/your-username/tic-tac-toe.git
+git clone https://github.com/pooja6765/tic-tac-toe.git
 
 
 🙌 Author
